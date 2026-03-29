@@ -1,0 +1,17 @@
+{
+	"name": "ls_onprem_file",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\madha\\MADHAVIadf",
+			"userId": "madhavi12358@outlook.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4NmQxOTRiZi1iZGM2LTQzYzktOWM3Mi00Zjg1MjQxZTMyMzQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "Madhavi-IR",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "MadhaviDataFactoryProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80f6fd8c-0d15-489a-a34d-79be9df47ffe",
+		"tenantId": "391c4724-a10e-4e51-98f0-fc2d6eee795b"
+	}
+}
